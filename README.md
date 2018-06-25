@@ -26,8 +26,8 @@
 
 <img src="http://m.qpic.cn/psb?/V136jZEC1zMlyg/iUI3sAbOovfb7n4YvqQ6qaOrp6jXYF3Uxp2ocI1uzSY!/b/dDABAAAAAAAA&bo=BQHMAQAAAAADF*s!&rf=viewer_4" height="430" width="254">
 
-* 交单格式：将申请截图+姓名+手机号发送到微信(微信号：Lzzzzzzq0408)
+* 交单格式：将申请截图+姓名+手机号
 * 所在城市非发卡地的不能申请 ！！
 * 限平安信用卡新用户！！
 * 老用户申请了也没用～～ ！！
-* 等待7个工作日拿100佣金！！！
+* 等待7个工作日拿60！！！
