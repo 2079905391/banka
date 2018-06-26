@@ -10,7 +10,7 @@
 ### 操作步骤(耗时5分钟):
 微信扫码一次性操作好,中途不要退出,退出就进提示你申请过了,不能重复申请
 
-<img src="http://m.qpic.cn/psb?/V136jZEC1zMlyg/g9B1evFyCI4qdVRjwTrh2BZqBOKQh6eBxuASNNuUWoU!/b/dDABAAAAAAAA&bo=.AP8AwAAAAARBzQ!&rf=viewer_4" height="200" width="200">
+<img src="http://m.qpic.cn/psb?/V136jZEC1zMlyg/CT8XqzX*ScEg3fGnvJBwOdR0MKiB1RIzzl781Pn*AHE!/b/dDABAAAAAAAA&bo=kAKSAgAAAAADByA!&rf=viewer_4" height="200" width="200">
 <figure class="half">
     <img src="http://m.qpic.cn/psb?/V136jZEC1zMlyg/26w1a7md63qfBNn5MauR2bQwbg0lpven25QoGqdzWro!/b/dDABAAAAAAAA&bo=*gCTAQAAAAADB04!&rf=viewer_4" height="430" width="254">
 <img src="http://m.qpic.cn/psb?/V136jZEC1zMlyg/*Jjo*.gcn*wbgeNCuYKsGuoyevf*vZE7.YXhQSexOsg!/b/dDMBAAAAAAAA&bo=yABgAQAAAAADF5s!&rf=viewer_4" height="430" width="254">
@@ -30,4 +30,4 @@
 * 所在城市非发卡地的不能申请 ！！
 * 限平安信用卡新用户！！
 * 老用户申请了也没用～～ ！！
-* 等待7个工作日拿60！！！
+* 等待7个工作日拿100！！！
